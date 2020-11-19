@@ -1,16 +1,14 @@
-### Hi there 👋
+#### Dzmitry Sviryn-@svirins
+Hi, I'm Dzmitry - a software engineerfrom Minsk, Belarus. 
+I specialize in creating web apps using JAM Stack coupled with headless CMS.
 
-<!--
-**svirins/svirins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+... to be finished soon
 
-Here are some ideas to get you started:
+#### My values:
+- honesty, reliability, responsibility
+- beautiful design
+- logical, efficient, well-documented code, following best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How to reach me:
+- Twitter: https://twitter.com/Svirins
+- Stackoverflow: https://stackoverflow.com/users/10450604/svirins
