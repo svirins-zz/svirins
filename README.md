@@ -1,5 +1,5 @@
 #### Dzmitry Sviryn-@svirins
-Hi, I'm Dzmitry - a software engineerfrom Minsk, Belarus. 
+Hi, I'm Dzmitry - a software engineer from Minsk, Belarus. 
 I specialize in creating web apps using JAM Stack coupled with headless CMS.
 
 ... to be finished soon
