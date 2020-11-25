@@ -1,14 +1,16 @@
-#### Dzmitry Sviryn-@svirins
-Hi, I'm Dzmitry - a software engineer from Minsk, Belarus. 
+#### Hi there 👋, I'm Dzmitry, software engineer from Minsk, Belarus
 I specialize in creating web apps using JAM Stack coupled with headless CMS.
 
-... to be finished soon
+#### I specialize in working with::
+- React ecosystem
+- JAM Stack
+- Typescript / Gatsby / Next.js / GraphQL / Apollo / Prisma
+- Headless CMS
 
 #### My values:
-- honesty, reliability, responsibility
+- honesty, reliability,responsibility
 - beautiful design
 - logical, efficient, well-documented code, following best practices
 
-#### How to reach me:
-- Twitter: https://twitter.com/Svirins
-- Stackoverflow: https://stackoverflow.com/users/10450604/svirins
+![Twitter URL](https://img.shields.io/twitter/url?label=svirins&style=social&url=https%3A%2F%2Ftwitter.com%2FSvirins)
+
