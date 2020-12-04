@@ -20,6 +20,7 @@ I specialize in creating web apps using JAM Stack coupled with headless CMS.
 [![ Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)]()
 [![ Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)]()
 
+[![ Storybook](https://img.shields.io/static/v1?label=&message=Storybook&color=ff4785&style=flat-square&logo=storybook&logoColor=white)]()
 [![ Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38b2ac&style=flat-square&logo=tailwind-css&logoColor=white)]()
 [![ styled-components](https://img.shields.io/static/v1?label=&message=styled-components&color=db7093&style=flat-square&logo=styled-components&logoColor=white)]()
 [![ Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)]()
