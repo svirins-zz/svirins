@@ -2,7 +2,18 @@
 ---
 I'm Dzmitry, software engineer from Minsk, Belarus
 I specialize in creating web apps using JAM Stack coupled with headless CMS.
-
+[![ Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=663399&style=flat-square&logo=gatsby&logoColor=white)]()
+[![ Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&style=flat-square&logo=next.js&logoColor=white)]()
+[![ GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=e10098&style=flat-square&logo=graphql&logoColor=white)]()
+[![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007acc&style=flat-square&logo=typescript&logoColor=white)]()
+[![ Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00c7b7&style=flat-square&logo=netlify&logoColor=white)]()
+[![ styled-components](https://img.shields.io/static/v1?label=&message=styled-components&color=db7093&style=flat-square&logo=styled-components&logoColor=white)]()
+[![ Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38b2ac&style=flat-square&logo=tailwind-css&logoColor=white)]()
+[![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat-square&logo=react&logoColor=white)]()
+[![ Mongo DB](https://img.shields.io/static/v1?label=&message=Mongo%20DB&color=47a248&style=flat-square&logo=mongodb&logoColor=white)]()
+[![ Postgres SQL](https://img.shields.io/static/v1?label=&message=Postgres%20SQL&color=336791&style=flat-square&logo=postgresql&logoColor=white)]()
+[![ D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=f9a03c&style=flat-square&logo=d3.js&logoColor=white)]()
+[![ Leaflet](https://img.shields.io/static/v1?label=&message=Leaflet&color=199900c&style=flat-square&logo=Leaflet&logoColor=white)]()
 #### I specialize in working with::
 - React ecosystem
 - JAM Stack
