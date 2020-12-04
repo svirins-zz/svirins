@@ -30,7 +30,7 @@ I specialize in creating web apps using JAM Stack coupled with headless CMS.
 [![ Auth0](https://img.shields.io/static/v1?label=&message=Auth0&color=eb5424&style=flat-square&logo=auth0&logoColor=white)]()
 [![ Stripe](https://img.shields.io/static/v1?label=&message=Stripe&color=008cdd&style=flat-square&logo=stripe&logoColor=white)]()
 [![ Drupal](https://img.shields.io/static/v1?label=&message=Drupal&color=0678be&style=flat-square&logo=drupal&logoColor=white)]()
-
+[![ WordPress](https://img.shields.io/static/v1?label=&message=WordPress&color=21759b&style=flat-square&logo=wordpress&logoColor=white)]()
 #### My values:
 - keep learning
 - honesty, reliability,responsibility
