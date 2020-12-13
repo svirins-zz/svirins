@@ -1,6 +1,6 @@
 #### Hi there👋
 ---
-I'm Dzmitry, software engineer from Minsk, Belarus
+I'm Dzmitry, software engineer from Minsk, Belarus.
 I specialize in creating web apps using JAM Stack coupled with headless CMS.
 
 #### I specialize in working with::
@@ -8,11 +8,13 @@ I specialize in creating web apps using JAM Stack coupled with headless CMS.
 - JAM Stack
 - Headless CMS
 #### Things I code with
+[![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=008cdd&style=flat-square&logo=typescript&logoColor=white)]()
 [![ GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=e10098&style=flat-square&logo=graphql&logoColor=white)]()
 [![ Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)]()
 [![ Mongo DB](https://img.shields.io/static/v1?label=&message=Mongo%20DB&color=47a248&style=flat-square&logo=mongodb&logoColor=white)]()
 [![ Postgres SQL](https://img.shields.io/static/v1?label=&message=Postgres%20SQL&color=336791&style=flat-square&logo=postgresql&logoColor=white)]()
 [![ Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=ffca28&style=flat-square&logo=firebase&logoColor=white)]()
+
 
 [![ Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00c7b7&style=flat-square&logo=netlify&logoColor=white)]()
 [![ Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)]()
@@ -38,5 +40,8 @@ I specialize in creating web apps using JAM Stack coupled with headless CMS.
 - beautiful design
 - logical, efficient, well-documented code, following best practices
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=svirins&theme=blue-green)
+
+Follow me: 
 ![Twitter URL](https://img.shields.io/twitter/url?label=svirins&style=social&url=https%3A%2F%2Ftwitter.com%2FSvirins)
 
