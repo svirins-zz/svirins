@@ -10,6 +10,10 @@ I specialize in creating web apps using JAM Stack coupled with headless CMS.
 
 #### Things I code with:
 [![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=008cdd&style=flat-square&logo=typescript&logoColor=white)]()
+[![ React](https://img.shields.io/static/v1?label=&message=React&color=61dafb&style=flat-square&logo=react&logoColor=white)]()
+[![ Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=663399&style=flat-square&logo=gatsby&logoColor=white)]()
+[![ Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&style=flat-square&logo=next.js&logoColor=white)]()
+
 [![ GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=e10098&style=flat-square&logo=graphql&logoColor=white)]()
 [![ Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)]()
 [![ Mongo DB](https://img.shields.io/static/v1?label=&message=Mongo%20DB&color=47a248&style=flat-square&logo=mongodb&logoColor=white)]()
